@@ -1,0 +1,10 @@
+/Users/BrettBrunswick/Desktop/College/SP18/ACCTMIS 3610/3610Workspace/Garage.Api/bin/Debug/netcoreapp2.0/Garage.Api.deps.json
+/Users/BrettBrunswick/Desktop/College/SP18/ACCTMIS 3610/3610Workspace/Garage.Api/bin/Debug/netcoreapp2.0/Garage.Api.runtimeconfig.json
+/Users/BrettBrunswick/Desktop/College/SP18/ACCTMIS 3610/3610Workspace/Garage.Api/bin/Debug/netcoreapp2.0/Garage.Api.runtimeconfig.dev.json
+/Users/BrettBrunswick/Desktop/College/SP18/ACCTMIS 3610/3610Workspace/Garage.Api/bin/Debug/netcoreapp2.0/Garage.Api.dll
+/Users/BrettBrunswick/Desktop/College/SP18/ACCTMIS 3610/3610Workspace/Garage.Api/bin/Debug/netcoreapp2.0/Garage.Api.pdb
+/Users/BrettBrunswick/Desktop/College/SP18/ACCTMIS 3610/3610Workspace/Garage.Api/obj/Debug/netcoreapp2.0/Garage.Api.csproj.CoreCompileInputs.cache
+/Users/BrettBrunswick/Desktop/College/SP18/ACCTMIS 3610/3610Workspace/Garage.Api/obj/Debug/netcoreapp2.0/Garage.Api.AssemblyInfoInputs.cache
+/Users/BrettBrunswick/Desktop/College/SP18/ACCTMIS 3610/3610Workspace/Garage.Api/obj/Debug/netcoreapp2.0/Garage.Api.AssemblyInfo.cs
+/Users/BrettBrunswick/Desktop/College/SP18/ACCTMIS 3610/3610Workspace/Garage.Api/obj/Debug/netcoreapp2.0/Garage.Api.dll
+/Users/BrettBrunswick/Desktop/College/SP18/ACCTMIS 3610/3610Workspace/Garage.Api/obj/Debug/netcoreapp2.0/Garage.Api.pdb
